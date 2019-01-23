@@ -1,0 +1,12 @@
+PODS:
+  - MaterialActivityIndicator (0.0.3)
+
+DEPENDENCIES:
+  - MaterialActivityIndicator
+
+SPEC CHECKSUMS:
+  MaterialActivityIndicator: f1750c3c4d843b5472e48c69aa23b7673a732977
+
+PODFILE CHECKSUM: 9de328d8af381d554fc9cf3d341518fd59b80188
+
+COCOAPODS: 1.4.0

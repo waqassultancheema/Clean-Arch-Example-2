@@ -1,0 +1,6 @@
+framework module Pods_FlixBusDemoTests {
+  umbrella header "Pods-FlixBusDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
